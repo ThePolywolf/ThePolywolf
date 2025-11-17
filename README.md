@@ -1,6 +1,6 @@
 # Dallin Wolfer
 
-Hello, all!
+Hello day to all.
 
 My name is Dallin Wolfer, a student at Brigham Young University-Idaho interested in Computer Science and Data Science
 
