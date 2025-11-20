@@ -25,8 +25,8 @@ I am a big advocate for NOT using AI to write code; It is much more valuable to 
 - SQL and SQLite
 
 ## My Projects
-- ***!! Current Project !! ***Steam Review Scraper and Data Analysis
-- ***!! Current Project !! ***[Pokémon Card Battle Simulator (.NET)](https://github.com/ThePolywolf/PokemonTCGPSimulator-NET)
+- ***!! Current Project !!*** Steam Review Scraper and Data Analysis
+- ***!! Current Project !!*** [Pokémon Card Battle Simulator (.NET)](https://github.com/ThePolywolf/PokemonTCGPSimulator-NET)
 - [Pokémon Simulator Battle Analysis](https://github.com/ThePolywolf/Personal-Software-Portfolio/tree/main/Poke-TCG-Pocket-DataAnalysis)
 - [Pokémon Card Battle Simulator (Python)](https://github.com/ThePolywolf/poke-tcgp-sim)
 - [Self-Guided Data Structures Learning Course (.NET)](https://github.com/ThePolywolf/ThePolywolf-DataStructuresLearning)
